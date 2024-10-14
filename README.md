@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mskan Malviya</h1>
+<h1 align="center">Hi 👋, I'm Muskan Malviya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="350" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif">
